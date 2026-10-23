@@ -9,8 +9,6 @@
 
 ## Analytics
 
-[![This year](https://robt.me/api/badges/summary?period=year)](https://robt.me/feed)
-
 [![GitHub Stats](https://robt.me/api/badges/github)](https://robt.me/software)
 
 [![Most Used Languages](https://robt.me/api/badges/languages)](https://robt.me/stats)
